@@ -9,8 +9,8 @@
 
 ---
 
-<h3 align="center"><strong style="color: #32CD32;"> Create New Project in <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></strong></h3>
-<h4> Install <a href="https://docs.microsoft.com/pt-br/dotnet/core/install/windows?tabs=net50" target="_blank" style="color: #32CD32;">.NET</a> on Windows </h4>
+<h3 align="center"><strong> Create New Project in <img align="center" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></strong></h3>
+<h4> Install <a href="https://docs.microsoft.com/pt-br/dotnet/core/install/windows?tabs=net50" target="_blank">.NET</a> on Windows </h4>
 Create the app:
 
 ```
