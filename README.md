@@ -1,7 +1,7 @@
 <h1 align="center">Simple Interpreter</h1>
 <div align="center">
 
-[![license](https://img.shields.io/github/license/luisfernandobenatto/Simple-Interpreter.svg)](https://github.com/luisfernandobenatto/Simple-Interpreter/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/LuisFernandoBenatto/Simple-Interpreter.svg)](https://github.com/LuisFernandoBenatto/Simple-Interpreter/blob/master/LICENSE)
 <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/" target="_blank"><img alt="CSharp" src="https://img.shields.io/badge/C Sharp-%2332CD32.svg?&style=flat&logo=csharp&logoColor=white"/></a>
 </div>
 
