@@ -1,0 +1,16 @@
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\bin\Debug\net5.0\Simple-Interpreter.exe
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\bin\Debug\net5.0\Simple-Interpreter.deps.json
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\bin\Debug\net5.0\Simple-Interpreter.runtimeconfig.json
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\bin\Debug\net5.0\Simple-Interpreter.runtimeconfig.dev.json
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\bin\Debug\net5.0\Simple-Interpreter.dll
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\bin\Debug\net5.0\ref\Simple-Interpreter.dll
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\bin\Debug\net5.0\Simple-Interpreter.pdb
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\obj\Debug\net5.0\Simple-Interpreter.csproj.AssemblyReference.cache
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\obj\Debug\net5.0\Simple-Interpreter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\obj\Debug\net5.0\Simple-Interpreter.AssemblyInfoInputs.cache
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\obj\Debug\net5.0\Simple-Interpreter.AssemblyInfo.cs
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\obj\Debug\net5.0\Simple-Interpreter.csproj.CoreCompileInputs.cache
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\obj\Debug\net5.0\Simple-Interpreter.dll
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\obj\Debug\net5.0\ref\Simple-Interpreter.dll
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\obj\Debug\net5.0\Simple-Interpreter.pdb
+C:\Users\Computer\Documents\LuisFernandoMB-UENP\Repository\Simple-Interpreter\obj\Debug\net5.0\Simple-Interpreter.genruntimeconfig.cache
