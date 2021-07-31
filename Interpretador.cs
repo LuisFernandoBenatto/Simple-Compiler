@@ -11,6 +11,13 @@ namespace Interpretador
                                   + "print($z);");
             Parser parser = new Parser(lexer);
             parser.Prog();
+            lexer = new Lexer("$c = 942 + 371 * 46; "
+                            + "print($c);");
+            parser = new Parser(lexer);
+            parser.Prog();
+            lexer = new Lexer("print(314);");
+            parser = new Parser(lexer);
+            parser.Prog();
         }
     }
 }

@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Computer\\.nuget\\packages\\": {}
+    "C:\\Users\\User\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Computer\\Documents\\LuisFernandoMB-UENP\\Repository\\Simple-Interpreter\\Simple-Interpreter.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\Simple-Interpreter\\Simple-Interpreter.csproj",
       "projectName": "Simple-Interpreter",
-      "projectPath": "C:\\Users\\Computer\\Documents\\LuisFernandoMB-UENP\\Repository\\Simple-Interpreter\\Simple-Interpreter.csproj",
-      "packagesPath": "C:\\Users\\Computer\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Computer\\Documents\\LuisFernandoMB-UENP\\Repository\\Simple-Interpreter\\obj\\",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\Simple-Interpreter\\Simple-Interpreter.csproj",
+      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\Simple-Interpreter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Computer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

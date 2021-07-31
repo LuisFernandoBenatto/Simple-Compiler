@@ -34,5 +34,32 @@ static void Main(string[] args)
   Parser parser = new Parser(lexer);
   parser.Prog();
 }  
-// Output: 14
 ```
+### Input
+```C#
+$x = 2 + 2 * 3;
+$y = 1 + 10 / 2;
+$z = $x + $y;
+print($z);
+```
+```C#
+$c = 942 + 371 * 46; 
+print($c);
+```
+```C#
+print(314);
+```
+
+### Output
+```C#
+14
+```
+```C#
+18008
+```
+```C#
+314
+```
+
+## Reference 🤩
+Code used with reference: [wellingtondellamura/compiler-from-scratch](https://github.com/wellingtondellamura/compiler-from-scratch/tree/master/)
