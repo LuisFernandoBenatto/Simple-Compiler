@@ -1,0 +1,5 @@
+C:\Users\User\Documents\GitHub\Simple-Interpreter\simple_predictive_parser\obj\Debug\net5.0\simple_predictive_parser.csproj.AssemblyReference.cache
+C:\Users\User\Documents\GitHub\Simple-Interpreter\simple_predictive_parser\obj\Debug\net5.0\simple_predictive_parser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Simple-Interpreter\simple_predictive_parser\obj\Debug\net5.0\simple_predictive_parser.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Simple-Interpreter\simple_predictive_parser\obj\Debug\net5.0\simple_predictive_parser.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Simple-Interpreter\simple_predictive_parser\obj\Debug\net5.0\simple_predictive_parser.csproj.CoreCompileInputs.cache
